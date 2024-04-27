@@ -1,4 +1,5 @@
 <p>Thrillers Travels APIs Gateway Documentation</p>
+<p>click on the Swagger logo</p>
 <p align="left">
   <a href="http://localhost:2000/api/v1/doc/" target="blank"><img src="https://cdn.svgporn.com/logos/swagger.svg" width="200" alt="Swagger Logo" /></a>
 </p>
