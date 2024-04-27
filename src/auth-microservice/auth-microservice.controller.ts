@@ -26,7 +26,7 @@ import { JwtAuthGuard } from 'src/common/guard/jwt.guard';
 import { ConfigService } from '@nestjs/config';
 import { GoogleOAuthGuard } from 'src/common/guard/google-auth.guard';
 
-@Controller('auth-microservice')
+@Controller('auth')
 @UseFilters(AllGlobalExceptionsFilter)
 export class AuthMicroserviceController {
   constructor(

@@ -20,7 +20,7 @@ import { RoleGuard } from '../common/guard/role.guard';
 import { Roles } from '../common/decorator/roles.decorator';
 import { Role } from '../common/interfaces/role.interface';
 
-@Controller('hotel-reservation-microservice')
+@Controller('hotel')
 @UseFilters(AllGlobalExceptionsFilter)
 export class HotelReservationMicroserviceController {
   constructor(
