@@ -1,7 +1,7 @@
 <p>Thrillers Travels APIs Gateway Documentation</p>
 <p>click on the Swagger logo</p>
 <p align="left">
-  <a href="http://localhost:2000/api/v1/doc/" target="blank"><img src="https://cdn.svgporn.com/logos/swagger.svg" width="200" alt="Swagger Logo" /></a>
+  <a href="https://api-gateway-ju6x.onrender.com/api/v1/doc" target="blank"><img src="https://cdn.svgporn.com/logos/swagger.svg" width="200" alt="Swagger Logo" /></a>
 </p>
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
